@@ -7,8 +7,8 @@
         "php": "^7.2",
         "setono/doctrine-orm-batcher-bundle": "^0.3.1",
         "sylius/sylius": "^1.4",
-        "symfony/event-dispatcher": "^4.4 || ^5.0",
-        "symfony/messenger": "^4.4 || ^5.0",
+        "symfony/event-dispatcher": "^4.3",
+        "symfony/messenger": "^4.3",
         "thecodingmachine/safe": "^1.1",
         "violuke/php-barcodes": "^1.0"
     },
