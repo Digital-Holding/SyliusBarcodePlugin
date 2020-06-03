@@ -1,0 +1,6 @@
+loevgaard_sylius_barcode:
+    product_variant:
+        barcode:
+            not_blank: Proszę wprowadzić kod kreskowy.
+            valid: Kod "{{ string }}" nie jest poprawnym kodem kreskowym.
+            unique: Kod kreskowy musi być unikatowy.
